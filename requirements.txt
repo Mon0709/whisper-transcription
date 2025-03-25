@@ -1,3 +1,4 @@
+ffmpeg
 openai-whisper>=20231117
 streamlit>=1.27.0
 torch>=2.0.0
