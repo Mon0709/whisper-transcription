@@ -79,7 +79,7 @@ def main():
     
     # サイドバーにGitHubリンク
     st.sidebar.markdown("---")
-    st.sidebar.markdown("[GitHubリポジトリ](https://github.com/yourusername/whisper-transcription)")
+    st.sidebar.markdown("[GitHubリポジトリ](https://github.com/Mon0709/whisper-transcription)")
     
     # ファイルアップロード
     uploaded_file = st.file_uploader("音声ファイルをアップロード", 
